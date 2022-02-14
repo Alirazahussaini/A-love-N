@@ -43,7 +43,14 @@ loc = requests.get('https://ipapi.com/ip_api.php?ip=' + ip, headers={'Referer': 
 def linex():
 	os.system('echo  "\n ↠↠↠↠↠↠↠↠↠↠↠↠↠\n" | lolcat -a -d 2 -s 50')
 def logo():
-	os.system('echo "\n    ╔════════════════════════════╗\n    ║ AUTHOR: ALI RAZA       ↠  TEA   : WAS FANTASTIC \n   \n    ╚═════════════════════════════╝" | lolcat -a -d 2 -s 50')	
+	os.system('echo "\n 
+░█████╗░██╗░░░░░██╗
+██╔══██╗██║░░░░░██║
+███████║██║░░░░░██║
+██╔══██║██║░░░░░██║
+██║░░██║███████╗██║
+╚═╝░░╚═╝╚══════╝╚═╝
+		  ASALAM O ALAIKUM\n     AUTHOR: ALI RAZA       ↠Whatsapp:+923047269778 \n Fb page:Ar termux Trick\n   " | lolcat -a -d 2 -s 50')	
 
 def main():
 	os.system("clear")
